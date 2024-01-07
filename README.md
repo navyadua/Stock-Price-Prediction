@@ -1,3 +1,4 @@
+<p align="center"><img src="https://socialify.git.ci/navyadua/Stock-Price-Prediction/image?font=Inter&name=1&theme=Light" alt="project-image"></p>
 # Predicting Stock Prices Using LSTM 💹
 
 In today's financial landscape, predicting stock prices is a vital aspect of investment decision-making. Machine learning, particularly Long Short-Term Memory (LSTM) models, has gained significant traction for its ability to capture complex temporal patterns in sequential data, making it a powerful tool for stock price prediction.
